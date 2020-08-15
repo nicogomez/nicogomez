@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### Find me all around the web:
 
 - [Twitter](http://twitter.com/nikopython) :bird:
-- [LinkedIn](http://linkedin.com/in/nico-gomez) 👩‍💻
+- [LinkedIn](http://linkedin.com/in/nico-gomez) 👨🏻‍💻
