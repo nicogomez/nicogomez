@@ -1,6 +1,6 @@
 ### Hi there, I'm Nicolás Gómez 👋
 
-- 🔭 I’m currently working at Mercado Libre
+- 🔭 I’m currently work at Mercado Libre
 <!--
 **nicogomez/nicogomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
