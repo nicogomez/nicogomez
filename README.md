@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me 🙋🏻‍♂️
+I define myself as passionate about technology. I like free software but I am a fan of Apple. Python developer since 2014, hence backend developer, but the frontend amuses me. Always looking for something new to learn and challenging my skills.
+
 ### Find me all around the web:
 
 - [Twitter](http://twitter.com/nikopython) :bird:
