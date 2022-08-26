@@ -1,12 +1,5 @@
 ### Hi there, I'm Nicolás Gómez 👋
 
-### About me 🙋🏻‍♂️
-I define myself as passionate about technology. I like free software but I am a fan of Apple 👨🏻‍💻. Python developer since 2014, backend developer, but the frontend amuses me. Always looking for something new to learn and challenging my skills.
-
-### Fan of
-- Apple
-- Boca Juniors ⚽️
-
 <p align="left">
   <!--
   <a href="https://leetcode.com/nicogomez/">
@@ -26,6 +19,13 @@ I define myself as passionate about technology. I like free software but I am a 
     <img src="https://komarev.com/ghpvc/?username=nicogomez" alt="visitors" />
   </a>
 </p>
+
+### About me 🙋🏻‍♂️
+I define myself as passionate about technology. I like free software but I am a fan of Apple 👨🏻‍💻. Python developer since 2014, backend developer, but the frontend amuses me. Always looking for something new to learn and challenging my skills.
+
+### Fan of
+- Apple
+- Boca Juniors ⚽️
 
 #### Now
 
