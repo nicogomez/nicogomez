@@ -1,4 +1,4 @@
-### Hi there, I'm Nicolás Gómez 👋
+### Hi there, I'm Nicolás Gómez 👋 (ex Mercado Libre)
 
 <p align="left">
   <!--
@@ -35,12 +35,12 @@ I define myself as passionate about technology. I like free software but I am a 
 
 #### Bio
 
-- 🏢 I'm currently working at **Mercado Libre**
-- ⚙️ I use daily: `.py`, `.ipynb`, `.sql`
+- 🏢 I'm currently working at **Cross Functional** like EXT Infineon
+- ⚙️ I use daily: `.py`, `.ipynb`, `.sql`, `.tsx`
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **Machine Learning and Python**
+- 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Flask**
 <!--
-- 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
 - 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2)
 - 📝 Checkout my [Resume](files/resume.pdf).
 -->
