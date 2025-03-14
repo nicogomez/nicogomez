@@ -21,21 +21,21 @@
 </p>
 
 ### About me 🙋🏻‍♂️
-I define myself as passionate about technology. I like free software but I am a fan of Apple 👨🏻‍💻. Python developer since 2014, backend developer, but the frontend amuses me. Always looking for something new to learn and challenging my skills.
+I define myself as passionate about technology. I like free software but I am a fan of Apple 👨🏻‍💻. Python developer since 2015, backend developer, but the frontend amuses me. Always looking for something new to learn and challenging my skills.
 
 ### Fan of
-- Apple
+-  Apple
 - Boca Juniors ⚽️
 
 #### Now
 
-- 🔭 I’m currently work at Mercado Libre as SSr Machine Learning Engineer
+<!-- - 🔭 I’m currently work at Mercado Libre as SSr Machine Learning Engineer -->
 - :fire: Interested in Machine Learning engineering and Backend engineering;
 - :calendar: Looking for contributing to python based open source projects
 
 #### Bio
 
-- 🏢 I'm currently working at **Cross Functional** like EXT Infineon
+<!-- - 🏢 I'm currently working at **Cross Functional** like EXT Infineon -->
 - ⚙️ I use daily: `.py`, `.ipynb`, `.sql`, `.tsx`
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **Machine Learning and Python**
