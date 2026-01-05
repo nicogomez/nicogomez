@@ -1,17 +1,12 @@
 ### Hi there, I'm Nicolás Gómez 👋 (ex Mercado Libre)
 
 <p align="left">
-  <!--
-  <a href="https://leetcode.com/nicogomez/">
+  <!-- <a href="https://leetcode.com/nicogomez/">
     <img src="https://cp-logo.vercel.app/leetcode/nicogomez" alt="Leet code rating" />
   </a>
   <a href="https://codeforces.com/profile/nicogomez.me">
     <img src="https://raw.githubusercontent.com/nicogomez/cf-stats/main/output/rating.svg" alt="Leet code rating" />
-  </a>
-  <a href="https://stackoverflow.com/users/7764913/nicolas-gomez">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7764913?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  -->
+  </a> -->
   <a href="https://github.com/nicogomez?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/nicogomez?color=green&logo=github">
   </a>
@@ -48,14 +43,6 @@ I define myself as passionate about technology. I like free software but I am a 
 #### My Current Stack
 
 <img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
-
-#### Development Stuffs:
-
-<b>⚡ Github Stats</b>
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicogomez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicogomez&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
 
 <!--
 <b>&#128200; Competitive Programming</b>
