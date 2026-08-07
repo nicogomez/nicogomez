@@ -61,7 +61,7 @@ class Nico:
 | 📊 | **AdMetricsHub** | Digital advertising analytics SaaS | Django Ninja · PostgreSQL · React · BigQuery · AWS |
 | ⏱️ | **Fluxhour** | Time tracking & invoicing for freelancers | Django Ninja · Deno · React · Material UI · Docker |
 | 🏗️ | **Domum** | Construction cost tracking for the Argentine market | Django · PostgreSQL · React |
-| 💼 | **Smiling Boy** | My consulting practice — backend, data & cloud architecture | — |
+| 💼 | **[Smiling Boy](https://smiling-boy.com)** | My studio — *"the senior studio that ships your SaaS"*: product engineering, integrations &amp; payments, data/ML in production | Python · Django · React · AWS/GCP |
 
 - 🔭 Currently leading engineering on distributed, multi-timezone product teams
 - 🌱 Going deeper into **local AI models** and how they complement frontier LLMs
@@ -110,11 +110,20 @@ class Nico:
 
 ---
 
-### 📈 GitHub Stats
+### 💼 Work with me — [Smiling Boy](https://smiling-boy.com)
+
+> **The senior studio that ships your SaaS.**
+> No account managers, no junior hand-offs — direct access to senior engineers, on fixed-scope projects or retainers.
+
+- 🧩 **SaaS product engineering** — full-stack, from schema to shipped feature
+- 🔌 **Integrations & payments** — Stripe, Mercado Pago, third-party APIs, webhooks
+- 📊 **Data & ML in production** — pipelines and reproducible systems, not notebooks
+- 🏦 **Fintech & risk systems** — credit risk, fraud detection, pricing engines
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nicogomez&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicogomez&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top languages">
+  <a href="https://smiling-boy.com">
+    <img src="https://img.shields.io/badge/smiling--boy.com-Let's%20build%20something-2ea44f?style=for-the-badge" height="30" alt="smiling-boy.com">
+  </a>
 </p>
 
 ---
