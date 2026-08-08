@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Nicolás Gómez 👋</h1>
 
 <p align="center">
-  <b>Senior Software Engineer &amp; Engineering Lead</b><br>
-  Python · Django · React · Cloud &nbsp;|&nbsp; 📍 Córdoba, Argentina &nbsp;|&nbsp; Building for distributed teams worldwide
+  <b>Senior Software Engineer · Backend & Data Systems</b><br>
+  Python · Django · React · BigQuery · Cloud &nbsp;|&nbsp; 📍 Córdoba, Argentina &nbsp;|&nbsp; Building reliable products for distributed teams
 </p>
 
 <p align="center">
@@ -36,37 +36,60 @@
 
 ### 🙋🏻‍♂️ About me
 
-I'm a backend-leaning full-stack engineer who has been writing Python since 2015. These days I split my time between **leading engineering for distributed international teams** and **building my own SaaS products**.
+I'm a senior software engineer with a strong backend and data systems background. I’ve been writing Python professionally since 2015, building production systems across fintech, SaaS, analytics, forecasting, integrations, and business-critical workflows.
 
-I care about clean, minimalist interfaces backed by robust, process-oriented architecture — systems that are boring to operate and pleasant to extend. I lean toward free software, and I still develop on a Mac. 👨🏻‍💻
+Most of my work sits at the intersection of **clean APIs, reliable data pipelines, product engineering, and pragmatic architecture**. I enjoy turning ambiguous business problems into maintainable systems that are easy to operate, extend, and reason about.
+
+I’m comfortable working with distributed teams, collaborating directly with product and business stakeholders, and owning features from technical design to production.
 
 ```python
 class Nico:
-    role         = "Senior Software Engineer & Engineering Lead"
-    company      = "Smiling Boy · smiling-boy.com"
-    location     = "Córdoba, Argentina 🇦🇷"
+    role = "Senior Software Engineer"
+    focus = ["Backend Engineering", "Data Systems", "Product Architecture"]
+    location = "Córdoba, Argentina 🇦🇷"
     coding_since = 2015
-    daily        = [".py", ".ipynb", ".sql", ".tsx"]
-    ask_me_about = ["Django", "DRF & Django Ninja", "Python", "Docker",
-                    "REST APIs", "BigQuery", "team leadership"]
-    fun_fact     = "Boca Juniors fan ⚽️ and unapologetic Apple user 🍎"
+
+    daily = [".py", ".sql", ".tsx", ".ipynb"]
+
+    ask_me_about = [
+        "Python",
+        "Django",
+        "REST APIs",
+        "Data pipelines",
+        "BigQuery",
+        "PostgreSQL",
+        "Fintech systems",
+        "SaaS architecture",
+    ]
+
+    values = [
+        "simple designs",
+        "clear ownership",
+        "maintainable code",
+        "reliable systems",
+    ]
 ```
 
 ---
 
-### 🚀 What I'm working on
+### 🧭 What I work on
+
+- 🧱 **Backend systems** — APIs, services, business logic, integrations, permissions, background jobs
+- 📊 **Data products** — analytics platforms, reporting workflows, ETL/ELT pipelines, BigQuery-based systems
+- 🏦 **Fintech & business workflows** — pricing engines, fraud/risk systems, payments, financial data processing
+- 🚀 **SaaS product engineering** — from early product discovery to production-ready features
+- 🤝 **Technical leadership** — architecture decisions, code quality, mentoring, and cross-functional collaboration
+
+---
+
+### 🚀 Selected projects
 
 | | Project | What it is | Stack |
 |:--:|:--|:--|:--|
 | 📊 | **AdMetricsHub** | Digital advertising analytics SaaS | Django Ninja · PostgreSQL · React · BigQuery · AWS |
-| ⏱️ | **Fluxhour** | Time tracking & invoicing for freelancers | Django Ninja · Deno · React · Material UI · Docker |
+| ⏱️ | **Fluxhour** | Time tracking & invoicing for freelancers | Django Ninja · React · Material UI · Docker |
 | 🏗️ | **Domum** | Construction cost tracking for the Argentine market | Django · PostgreSQL · React |
-| 💼 | **[Smiling Boy](https://smiling-boy.com)** | My studio — *"the senior studio that ships your SaaS"*: product engineering, integrations &amp; payments, data/ML in production | Python · Django · React · AWS/GCP |
-
-- 🔭 Currently leading engineering on distributed, multi-timezone product teams
-- 🌱 Going deeper into **local AI models** and how they complement frontier LLMs
-- 🤝 Open to collaborating on **Python-based open source** projects
-- 💬 Happiest at the intersection of clean APIs, data pipelines and product thinking
+| 💼 | **Smiling Boy** | Independent software practice focused on product engineering, integrations and data systems | Python · Django · React · AWS/GCP |
 
 ---
 
@@ -84,7 +107,8 @@ class Nico:
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST-A30000?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/Django%20Ninja-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django Ninja](https://img.shields.io/badge/Django%20Ninja-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
@@ -92,9 +116,8 @@ class Nico:
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
 
-**Data & Infra**
+**Data & Infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -110,33 +133,31 @@ class Nico:
 
 ---
 
-### 💼 Work with me — [Smiling Boy](https://smiling-boy.com)
+### 💼 Professional background
 
-> **The senior studio that ships your SaaS.**
-> No account managers, no junior hand-offs — direct access to senior engineers, on fixed-scope projects or retainers.
+I’ve worked on systems involving:
 
-- 🧩 **SaaS product engineering** — full-stack, from schema to shipped feature
-- 🔌 **Integrations & payments** — Stripe, Mercado Pago, third-party APIs, webhooks
-- 📊 **Data & ML in production** — pipelines and reproducible systems, not notebooks
-- 🏦 **Fintech & risk systems** — credit risk, fraud detection, pricing engines
+- large-scale financial and business workflows;
+- data integrations and analytics platforms;
+- forecasting and pricing engines;
+- fraud/risk-related systems;
+- SaaS products for distributed teams;
+- backend services with Python, Django, SQL, queues, APIs and cloud infrastructure.
 
 <p align="center">
-  <a href="https://smiling-boy.com">
-    <img src="https://img.shields.io/badge/smiling--boy.com-Let's%20build%20something-2ea44f?style=for-the-badge" height="30" alt="smiling-boy.com">
-  </a>
+  <i>Previously: Mercado Libre · Infineon · Element14 · InkedVoices</i>
 </p>
 
 ---
 
 ### 💬 Let's talk
 
-I'm always up for a conversation about Python, product architecture, or building software with distributed teams. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/nico-gomez/) or [email](mailto:nicolasdanielgomez@gmail.com).
+I'm always happy to connect about backend engineering, data systems, product architecture, Python, or building reliable software with distributed teams.
 
-<p align="center">
-  <i>Previously: Mercado Libre · Infineon</i>
-</p>
+The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/nico-gomez/) or [email](mailto:nicolasdanielgomez@gmail.com).
 
 <!--
 **nicogomez/nicogomez** is a ✨ special ✨ repository because its README.md
 appears on your GitHub profile.
 -->
+```
