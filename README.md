@@ -38,9 +38,11 @@
 
 I'm a senior software engineer with a strong backend and data systems background. I’ve been writing Python professionally since 2015, building production systems across fintech, SaaS, analytics, forecasting, integrations, and business-critical workflows.
 
-Most of my work sits at the intersection of **clean APIs, reliable data pipelines, product engineering, and pragmatic architecture**. I enjoy turning ambiguous business problems into maintainable systems that are easy to operate, extend, and reason about.
+I have hands-on experience working in startup environments, collaborating directly with founders, product teams, and customers to turn ambiguous requirements into shipped features. I’m comfortable owning work end-to-end: clarifying the problem, designing the technical approach, implementing the solution, coordinating feedback, and supporting it in production.
 
-I’m comfortable working with distributed teams, collaborating directly with product and business stakeholders, and owning features from technical design to production.
+Most of my work sits at the intersection of **clean APIs, reliable data pipelines, product engineering, and pragmatic architecture**. I enjoy turning complex business problems into maintainable systems that are easy to operate, extend, and reason about.
+
+I’m comfortable working with distributed teams, communicating across technical and non-technical stakeholders, and balancing speed, quality, and product impact.
 
 ```python
 class Nico:
@@ -50,6 +52,13 @@ class Nico:
     coding_since = 2015
 
     daily = [".py", ".sql", ".tsx", ".ipynb"]
+
+    strengths = [
+        "end-to-end ownership",
+        "startup execution",
+        "founder and customer communication",
+        "turning ambiguous requirements into shipped features",
+    ]
 
     ask_me_about = [
         "Python",
@@ -77,8 +86,10 @@ class Nico:
 - 🧱 **Backend systems** — APIs, services, business logic, integrations, permissions, background jobs
 - 📊 **Data products** — analytics platforms, reporting workflows, ETL/ELT pipelines, BigQuery-based systems
 - 🏦 **Fintech & business workflows** — pricing engines, fraud/risk systems, payments, financial data processing
-- 🚀 **SaaS product engineering** — from early product discovery to production-ready features
-- 🤝 **Technical leadership** — architecture decisions, code quality, mentoring, and cross-functional collaboration
+- 🚀 **Startup product engineering** — turning ambiguous requirements into production-ready features
+- 🤝 **End-to-end ownership** — discovery, technical design, implementation, feedback loops, and production support
+- 🗣️ **Founder & customer collaboration** — direct communication with founders, product stakeholders, and clients
+- 🧭 **Technical leadership** — architecture decisions, code quality, mentoring, and cross-functional execution
 
 ---
 
@@ -160,4 +171,3 @@ The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/nico-gomez
 **nicogomez/nicogomez** is a ✨ special ✨ repository because its README.md
 appears on your GitHub profile.
 -->
-```
