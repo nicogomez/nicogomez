@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nicolás Gómez 👋</h1>
+<h1 align="center">Hi there, I'm Nicolás Daniel Gómez 👋</h1>
 
 <p align="center">
   <b>Senior Software Engineer · Backend & Data Systems</b><br>
@@ -156,7 +156,7 @@ I’ve worked on systems involving:
 - backend services with Python, Django, SQL, queues, APIs and cloud infrastructure.
 
 <p align="center">
-  <i>Previously: Mercado Libre · Infineon · Element14 · InkedVoices</i>
+  <i>Previously: Mercado Libre · Infineon · Element14</i>
 </p>
 
 ---
